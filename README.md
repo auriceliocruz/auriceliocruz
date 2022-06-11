@@ -3,7 +3,7 @@
 ## Desenvolvedor Front-end junior
 
 - Estou apenas fazendo projetos*
-- 🖥️  Veja meu portfólio*
+- 🖥️  Veja meu portfólio  [Portfolio](https://auriceliocruz.github.io/)* 
 - 📚  Estou aprendendo Kotlin/Java
 
 <div align="left">
