@@ -1,6 +1,6 @@
 # Olá! Eu sou o Auricelio Cruz 🖐️
 
-## Desenvolvedor Front-end junior
+## Desenvolvedor Front-End junior
 
 - Estou apenas fazendo projetos*
 - 🖥️  Veja meu portfólio  [Portfolio](https://auriceliocruz.github.io/)* 
